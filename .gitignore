@@ -3,6 +3,11 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+dist/
+
+# Node.js
+node_modules/
+npm-debug.log*
 
 # Other files and folders
 .settings/
