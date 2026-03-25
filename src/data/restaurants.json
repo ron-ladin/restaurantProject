@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1",
+    "name": "The Garden Plate",
+    "cuisineType": "Mediterranean",
+    "priceTier": 2,
+    "attributes": ["Vegan", "Vegetarian", "Gluten_Free"],
+    "rating": 4.5
+  },
+  {
+    "id": "r2",
+    "name": "Mazel Bistro",
+    "cuisineType": "Jewish",
+    "priceTier": 3,
+    "attributes": ["Kosher"],
+    "rating": 4.2
+  },
+  {
+    "id": "r3",
+    "name": "Smokehouse & Barrel",
+    "cuisineType": "American BBQ",
+    "priceTier": 2,
+    "attributes": ["None"],
+    "rating": 4.7
+  },
+  {
+    "id": "r4",
+    "name": "Sakura Fusion",
+    "cuisineType": "Japanese",
+    "priceTier": 4,
+    "attributes": ["Gluten_Free"],
+    "rating": 4.8
+  },
+  {
+    "id": "r5",
+    "name": "Verdura Italiana",
+    "cuisineType": "Italian",
+    "priceTier": 1,
+    "attributes": ["Vegan", "Vegetarian"],
+    "rating": 4.1
+  }
+]
