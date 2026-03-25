@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1",
+    "name": "The Golden Fork",
+    "cuisineType": "Italian",
+    "priceTier": 2,
+    "attributes": ["Vegetarian"],
+    "rating": 4.5
+  },
+  {
+    "id": "r2",
+    "name": "Shalom Kitchen",
+    "cuisineType": "Middle Eastern",
+    "priceTier": 3,
+    "attributes": ["Kosher"],
+    "rating": 4.7
+  },
+  {
+    "id": "r3",
+    "name": "Green Sprout",
+    "cuisineType": "Asian Fusion",
+    "priceTier": 1,
+    "attributes": ["Vegan", "Gluten_Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "r4",
+    "name": "La Maison Chic",
+    "cuisineType": "French",
+    "priceTier": 4,
+    "attributes": ["None"],
+    "rating": 4.9
+  },
+  {
+    "id": "r5",
+    "name": "Taco Libre",
+    "cuisineType": "Mexican",
+    "priceTier": 1,
+    "attributes": ["Vegetarian", "Gluten_Free"],
+    "rating": 4.0
+  }
+]
