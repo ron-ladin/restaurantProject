@@ -9,9 +9,8 @@
     "build": "tsc",
     "typecheck": "tsc --noEmit"
   },
-  "dependencies": {},
   "devDependencies": {
-    "@types/node": "^22.0.0",
+    "@types/node": "^22.19.15",
     "tsx": "^4.0.0",
     "typescript": "^5.0.0"
   }

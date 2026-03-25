@@ -38,5 +38,125 @@
     "priceTier": 1,
     "attributes": ["Vegan", "Vegetarian"],
     "rating": 4.1
+  },
+  {
+    "id": "r6",
+    "name": "King David Steakhouse",
+    "cuisineType": "Steakhouse",
+    "priceTier": 4,
+    "attributes": ["Kosher"],
+    "rating": 4.6
+  },
+  {
+    "id": "r7",
+    "name": "Taco Libre",
+    "cuisineType": "Mexican",
+    "priceTier": 1,
+    "attributes": ["Gluten_Free", "Vegetarian"],
+    "rating": 4.3
+  },
+  {
+    "id": "r8",
+    "name": "The Green Sprout",
+    "cuisineType": "Healthy",
+    "priceTier": 2,
+    "attributes": ["Vegan", "Vegetarian", "Kosher"],
+    "rating": 4.4
+  },
+  {
+    "id": "r9",
+    "name": "Pasta & Co",
+    "cuisineType": "Italian",
+    "priceTier": 2,
+    "attributes": ["Vegetarian"],
+    "rating": 4.0
+  },
+  {
+    "id": "r10",
+    "name": "Sushi Zen",
+    "cuisineType": "Japanese",
+    "priceTier": 3,
+    "attributes": ["None"],
+    "rating": 4.5
+  },
+  {
+    "id": "r11",
+    "name": "Curry House",
+    "cuisineType": "Indian",
+    "priceTier": 2,
+    "attributes": ["Vegan", "Vegetarian", "Gluten_Free"],
+    "rating": 4.2
+  },
+  {
+    "id": "r12",
+    "name": "Le Petit Paris",
+    "cuisineType": "French",
+    "priceTier": 4,
+    "attributes": ["None"],
+    "rating": 4.9
+  },
+  {
+    "id": "r13",
+    "name": "Falafel HaShalom",
+    "cuisineType": "Israeli",
+    "priceTier": 1,
+    "attributes": ["Kosher", "Vegan", "Vegetarian"],
+    "rating": 4.7
+  },
+  {
+    "id": "r14",
+    "name": "Burger Joint",
+    "cuisineType": "American",
+    "priceTier": 2,
+    "attributes": ["Gluten_Free"],
+    "rating": 3.9
+  },
+  {
+    "id": "r15",
+    "name": "Thai Palace",
+    "cuisineType": "Thai",
+    "priceTier": 3,
+    "attributes": ["Vegan", "Gluten_Free"],
+    "rating": 4.3
+  },
+  {
+    "id": "r16",
+    "name": "Kosher Grill",
+    "cuisineType": "Middle Eastern",
+    "priceTier": 2,
+    "attributes": ["Kosher"],
+    "rating": 4.1
+  },
+  {
+    "id": "r17",
+    "name": "Pizza Express",
+    "cuisineType": "Italian",
+    "priceTier": 1,
+    "attributes": ["Vegetarian"],
+    "rating": 3.8
+  },
+  {
+    "id": "r18",
+    "name": "The Vegan Butcher",
+    "cuisineType": "Modern Vegan",
+    "priceTier": 3,
+    "attributes": ["Vegan", "Vegetarian"],
+    "rating": 4.6
+  },
+  {
+    "id": "r19",
+    "name": "Dim Sum Garden",
+    "cuisineType": "Chinese",
+    "priceTier": 2,
+    "attributes": ["None"],
+    "rating": 4.2
+  },
+  {
+    "id": "r20",
+    "name": "Ocean Breeze",
+    "cuisineType": "Seafood",
+    "priceTier": 4,
+    "attributes": ["Gluten_Free"],
+    "rating": 4.4
   }
 ]
